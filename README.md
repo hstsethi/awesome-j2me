@@ -50,7 +50,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 * [FernFlower](https://github.com/fesh0r/fernflower)
 
-* [Javadecompilers. com](https://www.javadecompilers.com] Online java decompiler. Supports many decompilers.
+* [Javadecompilers.com](https://www.javadecompilers.com) Online java decompiler. Supports many decompilers.
 
 ***
 
