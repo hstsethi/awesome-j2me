@@ -90,3 +90,4 @@ Any decompiler that works for Java will work for J2ME too.
 # Communities.
  
 * [Kahvibreak discord](https://discord.gg/8TgbHAG)
+* [Post J2ME devs discord](https://discord.gg/MszXTsqaKG)
