@@ -1,6 +1,6 @@
 This list is mostly about MIDP.
 
-# Emulators.
+# Emulators
 
 * [J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) J2ME emulator for android.
 
@@ -15,9 +15,9 @@ This list is mostly about MIDP.
 
 ***
 
-# Development.
+# Development
 
-## SDKs.
+## SDKs
 
 * [Sony Ericsson SDK v 2-5-0-6](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6)
 
@@ -40,9 +40,9 @@ This list is mostly about MIDP.
 
 ***
 
-# Reverse engineering.
+# Reverse engineering
 
-## Decompilers.
+## Decompilers
 
 Any decompiler that works for Java will work for J2ME too.
 
@@ -54,7 +54,13 @@ Any decompiler that works for Java will work for J2ME too.
 
 ***
 
-# Native software.
+## Tools
+
+* [pylng](https://github.com/CakesTwix/pylng) HandyGames .lng file parser written in Python
+
+***
+
+# Native software
 
 ## Apps
 
@@ -67,13 +73,13 @@ Any decompiler that works for Java will work for J2ME too.
 * [Hotpants](https://github.com/baumschubser/hotpants/) HOTP/TOTP client.
 
 
-## Video games.
+## Video games
 
 * [Kahvibreak](https://bluemaxima.org/kahvibreak) Collection of J2ME games.
 
 ***
 
-# Related projects.
+# Related projects
 
 * [j2me-preservation](https://github.com/j2me-preservation/j2me-preservation)
 
@@ -81,13 +87,13 @@ Any decompiler that works for Java will work for J2ME too.
 
 ***
 
-# Books/Tutorials.
+# Books/Tutorials
 
 
 
 ***
 
-# Communities.
+# Communities
  
 * [Kahvibreak discord](https://discord.gg/8TgbHAG)
 * [Post J2ME devs discord](https://discord.gg/MszXTsqaKG)
