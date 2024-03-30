@@ -6,7 +6,6 @@
 
 # Contents
 
-
 - [Emulators](#emulators)
 - [Development](#development)
     - [SDKs](#sdks)
@@ -21,7 +20,6 @@
 - [Related Projects](#related-projects)
 - [Tutorials](#tutorials)
 - [Communities](#communities)
-
 
 ***
 
@@ -87,7 +85,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 ## Apps
 
-*  [Jtube](https://github.com/shinovon/JTube) - YouTube client based on Invidious API.
+- [Jtube](https://github.com/shinovon/JTube) - YouTube client based on Invidious API.
 
 - [Telegram micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
 
