@@ -4,7 +4,7 @@
 
 ---
 
-# Contents
+## Contents
 
 - [Emulators](#emulators)
 - [Development](#development)
@@ -23,7 +23,7 @@
 
 ---
 
-# Emulators
+## Emulators
 
 - [J2MELoader](https://github.com/nikita36078/J2ME-Loader) - J2ME emulator for android.
 
@@ -38,9 +38,9 @@
 
 ---
 
-# Development
+## Development
 
-## SDKs
+### SDKs
 
 - [Sony Ericsson SDK v 2-5-0-6](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6)
 
@@ -50,22 +50,22 @@
 - [Sun wireless toolkit 2.5.2](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01)
 
 
-## IDEs
+### IDEs
 
 - [Jcreator](https://en.m.wikipedia.org/wiki/JCreator) - Java IDE written in C++.
 
 - [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) -  Mobility-pack, stadard NetBeans and Java-ME sdk, all of them are required to setup MIDP devlopment enviorment.
 
 
-## API Docs
+### API Docs
 
 - [J2ME_Docs](https://nikita36078.github.io/J2ME_Docs) - API docs.
 
 ---
 
-# Reverse Engineering
+## Reverse Engineering
 
-## Decompilers
+### Decompilers
 
 Any decompiler that works for Java will work for J2ME too.
 
@@ -76,14 +76,14 @@ Any decompiler that works for Java will work for J2ME too.
 - [Javadecompilers.com](https://www.javadecompilers.com) - Online java decompiler. Supports many decompilers.
 
 
-## Tools
+### Tools
 
 - [PyLng](https://github.com/CakesTwix/pylng) - HandyGames .lng file parser written in Python.
 
 
-# Native Software
+## Native Software
 
-## Apps
+### Apps
 
 - [Jtube](https://github.com/shinovon/JTube) - YouTube client based on Invidious API.
 
@@ -94,13 +94,13 @@ Any decompiler that works for Java will work for J2ME too.
 - [Hotpants](https://github.com/baumschubser/hotpants/) - HOTP/TOTP client.
 
 
-## Video Games
+### Video Games
 
 - [Kahvibreak](https://bluemaxima.org/kahvibreak) - Collection of J2ME games.
 
 ---
 
-# Related Projects
+## Related Projects
 
 - [J2ME-preservation](https://github.com/j2me-preservation/j2me-preservation)
 
@@ -108,13 +108,13 @@ Any decompiler that works for Java will work for J2ME too.
 
 ---
 
-# Tutorials
+## Tutorials
 
 
 
 ---
 
-# Communities
+## Communities
  
 - [Kahvibreak discord](https://discord.gg/8TgbHAG)
 
