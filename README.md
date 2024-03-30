@@ -2,7 +2,7 @@
 
 >An awesome list about Mobile Information Device Profile([MIDP](https://en.wikipedia.org/wiki/Mobile_Information_Device_Profile)), a Java ME specification designed for old keypad phones and PDAs. MIDP is used to create Midlets, which have `.jad` or `.jar` extension, and run on platforms like old keypad phones or PDAs.
 
-***
+---
 
 # Contents
 
@@ -21,7 +21,7 @@
 - [Tutorials](#tutorials)
 - [Communities](#communities)
 
-***
+---
 
 # Emulators
 
@@ -36,7 +36,7 @@
 - [FreeJ2ME](https://github.com/hex007/freej2me)
 
 
-***
+---
 
 # Development
 
@@ -61,7 +61,7 @@
 
 - [J2ME_Docs](https://nikita36078.github.io/J2ME_Docs) - API docs.
 
-***
+---
 
 # Reverse Engineering
 
@@ -98,7 +98,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [Kahvibreak](https://bluemaxima.org/kahvibreak) - Collection of J2ME games.
 
-***
+---
 
 # Related Projects
 
@@ -106,13 +106,13 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [J2MEFandom](j2me.fandom.com/wiki/development_tools)
 
-***
+---
 
 # Tutorials
 
 
 
-***
+---
 
 # Communities
  
