@@ -1,6 +1,6 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome J2ME[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
->An awesome list about Mobile Information Device Profile([MIDP](https://en.wikipedia.org/wiki/Mobile_Information_Device_Profile)), a Java ME specification designed for old keypad phones and PDAs. MIDP is used to create Midlets, which have `.jad` or `.jar` extension, and run on platforms like old keypad phones or PDAs.
+> An awesome list about Mobile Information Device Profile([MIDP](https://en.wikipedia.org/wiki/Mobile_Information_Device_Profile)), a Java ME specification designed for old keypad phones and PDAs. MIDP is used to create Midlets, which have `.jad` or `.jar` extension, and run on platforms like old keypad phones or PDAs.
 
 ---
 
@@ -27,7 +27,7 @@
 
 - [J2MELoader](https://github.com/nikita36078/J2ME-Loader) - J2ME emulator for android.
 
-- [JL-Mod](https://github.com/woesss/JL-Mod) - fork of J2ME loader  with mascot capsule v3 support.
+- [JL-Mod](https://github.com/woesss/JL-Mod) - Fork of J2ME loader  with Mascot capsule v3 support.
 
 - [Js2J2ME](https://github.com/szatkus/js2me) - J2ME emulator for Firefox os.
 
@@ -104,7 +104,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [J2ME-preservation](https://github.com/j2me-preservation/j2me-preservation)
 
-- [J2MEFandom](j2me.fandom.com/wiki/development_tools)
+- [J2MEFandom](https://www.j2me.fandom.com/wiki)
 
 ---
 
