@@ -1,8 +1,9 @@
 # Awesome J2ME[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="j2me-logo.jpg" align="right" width="100">](https://www.oracle.com/java/technologies/javameoverview.html)
+
 > An awesome list about Mobile Information Device Profile([MIDP](https://en.wikipedia.org/wiki/Mobile_Information_Device_Profile)), a Java ME specification designed for old keypad phones and PDAs. MIDP is used to create Midlets, which have `.jad` or `.jar` extension, and run on platforms like old keypad phones or PDAs.
 
-[<img src="j2me-logo.jpg" align="right" width="100">](https://www.oracle.com/java/technologies/javameoverview.html)
 
 ---
 
