@@ -36,7 +36,7 @@
 
 - [PSPkvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 
-- [FreeJ2ME](https://github.com/hex007/freej2me)
+- [FreeJ2ME](https://github.com/hex007/freej2me) - J2ME emulator with LibRetro, AWT and SDL2 frontends.
 
 
 ---
@@ -45,12 +45,11 @@
 
 ### SDKs
 
-- [Sony Ericsson SDK v 2-5-0-6](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6)
+- [SonyEricsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6)
 
-- [Sun Java-me SDK v-3.0](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html)  [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - It also includes WTK 2.5.2.
+- [SunJavaMeSDK](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html)  [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - It also includes WTK 2.5.2.
 
-
-- [Sun wireless toolkit 2.5.2](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01)
+- [SunWTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) 
 
 
 ### IDEs
@@ -72,7 +71,7 @@
 
 Any decompiler that works for Java will work for J2ME too.
 
-- [Jd Decompiler](https://java-decompiler.github.io)
+- [JdDecompiler](https://java-decompiler.github.io)
 
 - [FernFlower](https://github.com/fesh0r/fernflower)
 
@@ -90,7 +89,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [Jtube](https://github.com/shinovon/JTube) - YouTube client based on Invidious API.
 
-- [Telegram micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
+- [TelegramMicro](https://github.com/faissaloo/telegram-micro) - Telegram client.
 
 - [MeBoy](http://arktos.se/meboy) - GameBoy emulator.
 
@@ -105,7 +104,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 ## Related Projects
 
-- [J2ME-preservation](https://github.com/j2me-preservation/j2me-preservation)
+- [J2MEPreservation](https://github.com/j2me-preservation/j2me-preservation)
 
 - [J2MEFandom](https://www.j2me.fandom.com/wiki)
 
@@ -116,9 +115,9 @@ Any decompiler that works for Java will work for J2ME too.
 
 
 ---
-
+,
 ## Communities
  
-- [Kahvibreak discord](https://discord.gg/8TgbHAG)
+- [KahvibreakDiscord](https://discord.gg/8TgbHAG)
 
-- [Post J2ME devs discord](https://discord.gg/MszXTsqaKG)
+- [PostJ2MEDevsDiscord](https://discord.gg/MszXTsqaKG)
