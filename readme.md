@@ -45,18 +45,18 @@
 
 ### SDKs
 
-- [SonyEricsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6)
+- [SonyEricsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sonny Ericsson devices. Can run Mascot capsule software too.
+- 
 
 - [SunJavaMeSDK](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html)  [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - It also includes WTK 2.5.2.
 
-- [SunWTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) 
-
+- [SunWTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) - Official J2ME SDK by Sun.
 
 ### IDEs
 
 - [Jcreator](https://en.m.wikipedia.org/wiki/JCreator) - Java IDE written in C++.
 
-- [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) -  Mobility-pack, stadard NetBeans and Java-ME sdk, all of them are required to setup MIDP devlopment enviorment.
+- [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) -  Mobility-pack,  normal NetBeans and Java-ME SDK, all of them are required to setup MIDP devlopment enviorment.
 
 
 ### API Docs
@@ -71,11 +71,11 @@
 
 Any decompiler that works for Java will work for J2ME too.
 
-- [JdDecompiler](https://java-decompiler.github.io)
+- [JdDecompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.  
 
-- [FernFlower](https://github.com/fesh0r/fernflower)
+- [FernFlower](https://github.com/fesh0r/fernflower) - Analytical Java decompiler by JetBrains.
 
-- [Javadecompilers.com](https://www.javadecompilers.com) - Online java decompiler. Supports many decompilers.
+- [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
 
 
 ### Tools
@@ -104,20 +104,19 @@ Any decompiler that works for Java will work for J2ME too.
 
 ## Related Projects
 
-- [J2MEPreservation](https://github.com/j2me-preservation/j2me-preservation)
+- [J2MEPreservation](https://github.com/j2me-preservation/j2me-preservation) - Archive of various J2ME softwares.
 
-- [J2MEFandom](https://www.j2me.fandom.com/wiki)
+- [J2MEFandom](https://www.j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
 
 ---
 
 ## Tutorials
 
+- [A Testing Method for Java ME Software](https://doi.org/10.1109/EmbeddedCom-ScalCom.2009.21) - Reviews various unit testing methods for J2ME and introduces a custom one for NetBeans.
 
 
 ---
 
 ## Communities
  
-- [KahvibreakDiscord](https://discord.gg/8TgbHAG)
-
-- [PostJ2MEDevsDiscord](https://discord.gg/MszXTsqaKG)
+- [KahvibreakDiscord](https://discord.gg/8TgbHAG) - Discord community focused on preserving J2ME games.
