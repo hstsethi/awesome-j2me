@@ -28,11 +28,11 @@
 
 ## Emulators
 
-- [J2MELoader](https://github.com/nikita36078/J2ME-Loader) - J2ME emulator for android.
+- [J2MELoader](https://github.com/nikita36078/J2ME-Loader) - J2ME emulator for Android.
 
-- [JL-Mod](https://github.com/woesss/JL-Mod) - Fork of J2ME loader  with Mascot capsule v3 support.
+- [JLMod](https://github.com/woesss/JL-Mod) - Fork of J2ME loader with Mascot capsule v3 support.
 
-- [Js2J2ME](https://github.com/szatkus/js2me) - J2ME emulator for Firefox os.
+- [JS2J2ME](https://github.com/szatkus/js2me) - J2ME emulator for Firefox OS.
 
 - [PSPkvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 
@@ -46,22 +46,21 @@
 ### SDKs
 
 - [SonyEricsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sonny Ericsson devices. Can run Mascot capsule software too.
-- 
-
-- [SunJavaMeSDK](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html)  [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - It also includes WTK 2.5.2.
+  
+- [SunJavaMeSDK](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html)  [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - Sucessor to WTK that integrates CLDC, CDC and Blu-ray Disc Java technologies into one.
 
 - [SunWTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) - Official J2ME SDK by Sun.
 
 ### IDEs
 
-- [Jcreator](https://en.m.wikipedia.org/wiki/JCreator) - Java IDE written in C++.
+- [JCreator](https://en.m.wikipedia.org/wiki/JCreator) - Java IDE written in C++.
 
 - [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) -  Mobility-pack,  normal NetBeans and Java-ME SDK, all of them are required to setup MIDP devlopment enviorment.
 
 
 ### API Docs
 
-- [J2ME_Docs](https://nikita36078.github.io/J2ME_Docs) - API docs.
+- [J2ME_Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor specific APIs.
 
 ---
 
@@ -91,7 +90,8 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [TelegramMicro](https://github.com/faissaloo/telegram-micro) - Telegram client.
 
-- [MeBoy](http://arktos.se/meboy) - GameBoy emulator.
+- [MeBoy](http://arktos.se/meboy) - Supports emulating GBA, GBC with sound, color and save states.
+
 
 - [Hotpants](https://github.com/baumschubser/hotpants/) - HOTP/TOTP client.
 
@@ -120,3 +120,5 @@ Any decompiler that works for Java will work for J2ME too.
 ## Communities
  
 - [KahvibreakDiscord](https://discord.gg/8TgbHAG) - Discord community focused on preserving J2ME games.
+
+- [r/J2MEGaming](https://reddit.com/r/j2megaming) - Reddit community for J2ME, Symbian and related platforms.
