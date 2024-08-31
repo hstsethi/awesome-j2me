@@ -54,7 +54,10 @@
 - [MBooster](https://web.archive.org/web/20070314004015/http://innaworks.com/mBooster.html) - Optimizing suite for .jar files. Compresses images, audio, zip files and optimizes API calls.
 
 - [MicroCode](https://web.archive.org/web/20061225061546/http://j2me-device-db.sourceforge.net/pmwiki/index.php?n=Main.HomePage) - Cross device development framework for J2ME. Supports more than 300 devices.
-- 
+
+- [SoapME](https://dl.acm.org/doi/abs/10.1145/1462802.1462805) - SOAP compliant Web service container that supports dynamic development.
+
+
 ### IDEs
 
 - [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) -  Mobility-pack, normal NetBeans and Java-ME SDK, all of them are required to setup MIDP development enviorment.
@@ -62,7 +65,7 @@
 
 ### API Docs
 
-- [J2MEDocs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor specific APIs.
+- [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor specific APIs.
 
 ---
 
@@ -118,6 +121,11 @@ Any decompiler that works for Java will work for J2ME too.
 - [A Testing Method for Java ME Software](https://doi.org/10.1109/EmbeddedCom-ScalCom.2009.21) - Reviews various unit testing methods for J2ME and introduces a custom one for NetBeans.
 
 - [Security Evaluation of J2ME CLDC Embedded Java Platform](http://codexx.s3.amazonaws.com/hack-ohm/j2me_cldc_security_evaluation.pdf) - Paper on J2ME security and vulnerability analysis.
+- [Automated GUI Testing for J2ME Software Based on FSM](https://ieeexplore.ieee.org/abstract/document/5341641) - Introduces a technique for automating tests of LCDUI J2ME applications based on FSM.
+
+- [Experiences of Implementing BitTorrent on Java ME Platform](https://ieeexplore.ieee.org/abstract/document/4446557) - Detailed writeup on implementing BitTorrent clinet on Nokia S40. Includes metrics and relevant works.
+- [Distributed Gaming using J2ME and XML](https://www.cs.sjsu.edu/faculty/pollett/masters/Semesters/Fall03/Rekha/CS297Report.pdf) - Writeup on creating a cross-platform using Oracle XML database, IBM WebSphere VM.
+
 
 ---
 
