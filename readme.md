@@ -47,7 +47,7 @@
 
 - [Sony Ericsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sony Ericsson devices. Can run Mascot capsule software too.
   
-- [Sun Java Me SDK](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html)  [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - Sucessor to WTK that integrates CLDC, CDC and Blu-ray Disc Java technologies into one.
+- [Sun Java Me SDK](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html)  [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - Successor to WTK that integrates CLDC, CDC and Blu-ray Disc Java technologies into one.
 
 - [Sun WTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) - Official J2ME SDK by Sun.
 
@@ -57,11 +57,15 @@
 
 - [SoapME](https://dl.acm.org/doi/abs/10.1145/1462802.1462805) - SOAP compliant Web service container that supports dynamic development.
 
+- [J2ME Polish](https://github.com/Enough-Software/j2mepolish) - Open source, Ant based build tool for J2ME that supports building for multiple platforms including Blackberry, Symbian.
+
+- [Extra Transit Mobile Interaction Suite](http://web.archive.org/web/20070210202710/http://www.extransit.com) - IDE and SDK for J2ME specializing in development of internet based applications. 
 
 ### IDEs
 
-- [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) -  Mobility-pack, normal NetBeans and Java-ME SDK, all of them are required to setup MIDP development enviorment.
+- [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) -  Mobility-pack, normal NetBeans and Java-ME SDK, all of them are required to setup MIDP development environment.
 
+- [Eclipse](https://archive.eclipse.org/eclipse/downloads) - Archive of all versions of Eclipse IDE.
 
 ### API Docs
 
@@ -77,7 +81,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [JdDecompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.  
 
-- [FernFlower](https://github.com/fesh0r/fernflower) - Analytical Java decompiler by JetBrains.
+- [FernFlower](https://github.com/fesh0r/fernflower) - Analytical Java decompiler by Jet Brains.
 
 - [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
 
@@ -85,7 +89,6 @@ Any decompiler that works for Java will work for J2ME too.
 ### Tools
 
 - [PyLng](https://github.com/CakesTwix/pylng) - HandyGames .lng file parser written in Python.
-
 
   
 ## Native Software
@@ -106,6 +109,7 @@ Any decompiler that works for Java will work for J2ME too.
 - [Kahvibreak](https://bluemaxima.org/kahvibreak) - Collection of J2ME games.
 
 - [Moby Games](https://www.mobygames.com/platform/j2me) - Database of J2ME games with links to official stores.
+
 ---
 
 ## Related Projects
@@ -123,7 +127,7 @@ Any decompiler that works for Java will work for J2ME too.
 - [Security Evaluation of J2ME CLDC Embedded Java Platform](http://codexx.s3.amazonaws.com/hack-ohm/j2me_cldc_security_evaluation.pdf) - Paper on J2ME security and vulnerability analysis.
 - [Automated GUI Testing for J2ME Software Based on FSM](https://ieeexplore.ieee.org/abstract/document/5341641) - Introduces a technique for automating tests of LCDUI J2ME applications based on FSM.
 
-- [Experiences of Implementing BitTorrent on Java ME Platform](https://ieeexplore.ieee.org/abstract/document/4446557) - Detailed writeup on implementing BitTorrent clinet on Nokia S40. Includes metrics and relevant works.
+- [Experiences of Implementing BitTorrent on Java ME Platform](https://ieeexplore.ieee.org/abstract/document/4446557) - Detailed writeup on implementing BitTorrent client on Nokia S40. Includes metrics and relevant works.
 - [Distributed Gaming using J2ME and XML](https://www.cs.sjsu.edu/faculty/pollett/masters/Semesters/Fall03/Rekha/CS297Report.pdf) - Writeup on creating a cross-platform using Oracle XML database, IBM WebSphere VM.
 
 
