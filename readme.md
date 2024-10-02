@@ -43,6 +43,8 @@
 
 ## Development
 
+- [NNJSON])https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
+  
 ### SDKs
 
 - [Sony Ericsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sony Ericsson devices. Can run Mascot capsule software too.
@@ -103,6 +105,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [Hotpants](https://github.com/baumschubser/hotpants/) - HOTP/TOTP client.
 
+- [Discord J2ME](https://github.com/gtrxAC/discord-j2me) - Unofficial Discord client for J2ME. Utilizes proxy server for HTTP, gateway connections.
 
 ### Video Games
 
