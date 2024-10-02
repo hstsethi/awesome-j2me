@@ -30,9 +30,9 @@
 
 - [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) - J2ME emulator for Android.
 
-- [JLMod](https://github.com/woesss/JL-Mod) - Fork of J2ME loader with Mascot capsule v3 support.
+- [JL Mod](https://github.com/woesss/JL-Mod) - Fork of J2ME loader with Mascot capsule v3 support.
 
-- [JS2J2ME](https://github.com/szatkus/js2me) - J2ME emulator for Firefox OS.
+- [JS2 J2ME](https://github.com/szatkus/js2me) - J2ME emulator for Firefox OS.
 
 - [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 
@@ -43,7 +43,7 @@
 
 ## Development
 
-- [NNJSON])https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
+- [NNJSON](https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
   
 ### SDKs
 
