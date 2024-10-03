@@ -38,12 +38,15 @@
 
 - [FreeJ2ME](https://github.com/hex007/freej2me) - J2ME emulator with LibRetro, AWT and SDL2 frontends.
 
+- [J2ME Emu Software](https://archive.org/details/j2me-emuSoftware) - Executables, source code of various J2ME emulators.
 
 ---
 
 ## Development
 
-- [NNJSON](https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
+- [NN JSON](https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
+
+- [NN JSON CLDC 1.0](https://github.com/gtrxAC/discord-j2me/tree/main/src/cc/nnproject/json) - Modified version of NN JSON for CLDC 1.0.
   
 ### SDKs
 
@@ -55,9 +58,9 @@
 
 - [MBooster](https://web.archive.org/web/20070314004015/http://innaworks.com/mBooster.html) - Optimizing suite for .jar files. Compresses images, audio, zip files and optimizes API calls.
 
-- [MicroCode](https://web.archive.org/web/20061225061546/http://j2me-device-db.sourceforge.net/pmwiki/index.php?n=Main.HomePage) - Cross device development framework for J2ME. Supports more than 300 devices.
+- [Micro Code](https://web.archive.org/web/20061225061546/http://j2me-device-db.sourceforge.net/pmwiki/index.php?n=Main.HomePage) - Cross device development framework for J2ME. Supports more than 300 devices.
 
-- [SoapME](https://dl.acm.org/doi/abs/10.1145/1462802.1462805) - SOAP compliant Web service container that supports dynamic development.
+- [Soap ME](https://dl.acm.org/doi/abs/10.1145/1462802.1462805) - SOAP compliant Web service container that supports dynamic development.
 
 - [J2ME Polish](https://github.com/Enough-Software/j2mepolish) - Open source, Ant based build tool for J2ME that supports building for multiple platforms including Blackberry, Symbian.
 
@@ -65,7 +68,7 @@
 
 ### IDEs
 
-- [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) -  Mobility-pack, normal NetBeans and Java-ME SDK, all of them are required to setup MIDP development environment.
+- [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) - Mobility-pack, normal NetBeans and Java-ME SDK, all of them are required to setup MIDP development environment.
 
 - [Eclipse](https://archive.eclipse.org/eclipse/downloads) - Archive of all versions of Eclipse IDE.
 
@@ -81,9 +84,9 @@
 
 Any decompiler that works for Java will work for J2ME too.
 
-- [JdDecompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.  
+- [Jd Decompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.  
 
-- [FernFlower](https://github.com/fesh0r/fernflower) - Analytical Java decompiler by Jet Brains.
+- [Fern Flower](https://github.com/fesh0r/fernflower) - Analytical Java decompiler by Jet Brains.
 
 - [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
 
@@ -101,7 +104,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [Telegram Micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
 
-- [MeBoy](http://arktos.se/meboy) - Supports emulating GBA, GBC with sound, color and save states.
+- [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color and save states.
 
 - [Hotpants](https://github.com/baumschubser/hotpants/) - HOTP/TOTP client.
 
@@ -113,13 +116,16 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [Moby Games](https://www.mobygames.com/platform/j2me) - Database of J2ME games with links to official stores.
 
+- [The "New" J2ME software archive](https://archive.org/details/96x65pixels_j2me) - 74GB+, sorted collection of J2ME games.
+
+  
 ---
 
 ## Related Projects
 
 - [J2ME Preservation](https://github.com/j2me-preservation/j2me-preservation) - Archive of various J2ME software.
 
-- [J2ME Fandom](https://www.j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
+- [J2ME Fandom](https://j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
 
 ---
 
