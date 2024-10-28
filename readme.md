@@ -39,6 +39,8 @@
 
 - [J2ME Emu Software](https://archive.org/details/j2me-emuSoftware) - Executables, source code of various J2ME emulators.
 
+- [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) - Active fork of FreeJ2ME.
+  
 ---
 
 ## Development
