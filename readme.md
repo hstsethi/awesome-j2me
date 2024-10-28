@@ -16,7 +16,6 @@
     - [API Docs](#api-docs)
 - [Reverse Engineering](#reverse-engineering)
     - [Decompilers](#decompilers)
-    - [Tools](#tools)
 - [Native Software](#native-software)
     - [Apps](#apps)
     - [Video Games](#video-games)
@@ -80,6 +79,9 @@
 
 ## Reverse Engineering
 
+- [PyLng](https://github.com/CakesTwix/pylng) - HandyGames .lng file parser written in Python.
+
+
 ### Decompilers
 
 Any decompiler that works for Java will work for J2ME too.
@@ -91,11 +93,6 @@ Any decompiler that works for Java will work for J2ME too.
 - [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
 
 - [Vineflower](https://github.com/vineflower/vineflower) - Fork of Fernflower decompiler with improved output quality.
-
-
-### Tools
-
-- [PyLng](https://github.com/CakesTwix/pylng) - HandyGames .lng file parser written in Python.
 
   
 ## Native Software
