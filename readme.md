@@ -39,9 +39,9 @@
 
 - [FreeJ2ME](https://github.com/hex007/freej2me) - J2ME emulator with LibRetro, AWT and SDL2 frontends.
 
-- [J2ME Emu Software](https://archive.org/details/j2me-emuSoftware) - Executables, source code of various J2ME emulators.
-
 - [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) - Active fork of FreeJ2ME.
+
+- [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Cellphone_emulators#Java_2_Micro_Edition_.28J2ME.29) - Has a list of J2ME emulators including official SDK emulators by various phone vendors.
   
 ---
 
@@ -108,6 +108,8 @@ Any decompiler that works for Java will work for J2ME too.
 - [Telegram Micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
 
 - [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color and save states.
+
+- [J2ME Emu Software](https://archive.org/details/j2me-emuSoftware) - Executables, source code of various emulators that run on J2ME.
 
 - [Hotpants](https://github.com/baumschubser/hotpants/) - HOTP/TOTP client.
 
