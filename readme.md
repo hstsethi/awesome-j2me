@@ -68,7 +68,9 @@
 
 - [J2ME Polish](https://github.com/Enough-Software/j2mepolish) - Open source, Ant based build tool for J2ME that supports building for multiple platforms including Blackberry, Symbian.
 
-- [Extra Transit Mobile Interaction Suite](http://web.archive.org/web/20070210202710/http://www.extransit.com) - IDE and SDK for J2ME specializing in development of internet based applications. 
+- [Extra Transit Mobile Interaction Suite](http://web.archive.org/web/20070210202710/http://www.extransit.com) - IDE and SDK for J2ME specializing in development of internet based applications.
+
+- [Hecl](https://www.hecl.org) | [Github](https://github.com/davidw/hecl/) - A mobile scripting language based on Java, capable of running on J2ME based devices.
 
 ### IDEs
 
