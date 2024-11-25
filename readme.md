@@ -70,7 +70,7 @@
 
 - [Extra Transit Mobile Interaction Suite](http://web.archive.org/web/20070210202710/http://www.extransit.com) - IDE and SDK for J2ME specializing in development of internet based applications.
 
-- [Hecl](https://www.hecl.org) | [Github](https://github.com/davidw/hecl/) - A mobile scripting language based on Java, capable of running on J2ME based devices.
+- [Hecl](https://www.hecl.org) - A mobile scripting language based on Java, capable of running on J2ME based devices.
 
 ### IDEs
 
