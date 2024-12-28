@@ -1,0 +1,18 @@
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'readme.md'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'readme.md'
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: awesome-lint
+        run: npx awesome-lint readme.md
