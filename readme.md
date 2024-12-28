@@ -1,5 +1,4 @@
 # Awesome J2ME
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="j2me-logo.jpg" align="right" width="100">](https://www.oracle.com/java/technologies/javameoverview.html)
