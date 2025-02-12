@@ -135,7 +135,7 @@ Any decompiler that works for Java will work for J2ME too.
 - [J2ME Preservation](https://github.com/j2me-preservation/j2me-preservation) - Archive of various J2ME software.
 
 - [J2ME Fandom](https://j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
-ub
+
 ---
 
 ## Tutorials
