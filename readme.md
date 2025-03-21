@@ -14,7 +14,6 @@ Please give it a star(⭐) to support the development.
 - [Development](#development)
     - [SDKs](#sdks)
     - [IDEs](#ides)
-    - [API Docs](#api-docs)
 - [Reverse Engineering](#reverse-engineering)
     - [Decompilers](#decompilers)
 - [Native Software](#native-software)
@@ -51,7 +50,9 @@ Please give it a star(⭐) to support the development.
 - [NN JSON](https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
 
 - [NN JSON CLDC 1.0](https://github.com/gtrxAC/discord-j2me/tree/main/src/cc/nnproject/json) - Modified version of NN JSON for CLDC 1.0.
-  
+
+- [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor specific APIs.
+
 ### SDKs
 
 - [Sony Ericsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sony Ericsson devices. Can run Mascot capsule software too.
@@ -77,10 +78,6 @@ Please give it a star(⭐) to support the development.
 - [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) - Mobility-pack, normal NetBeans and Java-ME SDK, all of them are required to setup MIDP development environment.
 
 - [Eclipse](https://archive.eclipse.org/eclipse/downloads) - Archive of all versions of Eclipse IDE.
-
-### API Docs
-
-- [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor specific APIs.
 
 ---
 
