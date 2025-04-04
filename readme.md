@@ -124,6 +124,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [The "New" J2ME software archive](https://archive.org/details/96x65pixels_j2me) - 74GB+, sorted collection of J2ME games.
 
+- [Gravity Defied CPP](https://github.com/rgimad/gravity_defied_cpp) - C++, SDL2 port of J2ME game of same name.
   
 ---
 
@@ -152,6 +153,8 @@ Any decompiler that works for Java will work for J2ME too.
 - [Developing Jini applications using J2ME technology](https://dl.acm.org/doi/abs/10.5555/507165) - Book on Developing networking applications using Jini and J2ME.
 
 - [J2ME-Based Mobile Virtual Laboratory for Engineering Education](https://www.researchgate.net/profile/Mohammed-Otair/publication/26513175_J2ME-Based_Mobile_Virtual_Laboratory_for_Engineering_Education/links/56e322ec08ae65dd4cbac21b/J2ME-Based-Mobile-Virtual-Laboratory-for-Engineering-Education.pdf) - Paper on development of an Electrical Engineering Virtual Laboratory with J2ME.
+
+- [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
 
 ---
 
