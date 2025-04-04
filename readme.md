@@ -156,6 +156,12 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
 
+- [Technical Report: Bluetooth integration into CLDC/MIDP.](https://elib.dlr.de/6986/1/BluetoothAndMIDP.pdf) - A technical report detailing the integration of Bluetooth technology within CLDC/MIDP environments.
+
+- [NanoBase: A tiny relation database manager for the JME CLDC/MIDP Platform](https://ojs.unifor.br/tec/article/download/32/4471) - A paper presenting NanoBase, a lightweight relational database manager specifically designed for the JME CLDC/MIDP environment.
+
+- [MIDP based J2ME driver for accessing MySQL from mobile devices](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9c8c7457d965ad30f8785776d86b6f635fe5dde2p) - A paper presenting a MIDP-based J2ME driver that enables mobile devices to access MySQL databases similarly to how JDBC functions.
+
 ---
 
 ## Communities
