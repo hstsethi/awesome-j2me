@@ -4,6 +4,7 @@
 
 > An awesome list about Java platform Micro edition[(J2ME)](https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition), a Java specification designed for old keypad phones and PDAs. MIDP is used to create Midlets, which have `.jad` or `.jar` extension, and run on platforms like old keypad phones, Symbian and PDAs.
 
+<!--lint disable double-link-->
 Please give it a star(⭐) to support the development. Read about history of Awesome J2ME and above other reverse engineering projects in  <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">Awesome J2ME article</a>. Also check out [Awesome Symbian](https://github.com/hstsethi/awesome-symbian).
 
 ---
@@ -21,7 +22,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
     - [Video Games](#video-games)
 - [Related Projects](#related-projects)
 - [Tutorials](#tutorials)
-    - [Academic Articles)(academic-articles)
+    - [Academic Articles)(#academic-articles)
 - [Communities](#communities)
 
 ---
@@ -135,6 +136,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [J2ME Fandom](https://j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
 
+<!--lint disable double-link-->
 - [Awesome Symbian](https://github.com/hstsethi/awesome-symbian) - An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s. It supports J2ME as well.
 
 ---
