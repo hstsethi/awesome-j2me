@@ -134,7 +134,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [J2ME Fandom](https://j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
 
-- [Awesome Symbian] - An Awesome List about everything related to Symbian, a old mobile OS. Symbian supports J2ME as well.
+- [Awesome Symbian](https://github.com/hstsethi/awesome-symbian) - An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s. It supports J2ME as well.
 
 ---
 
