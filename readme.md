@@ -141,6 +141,12 @@ Any decompiler that works for Java will work for J2ME too.
 
 ## Tutorials
 
+- [J2ME In Nutshell](https://www.oreilly.com/library/view/j2me-in-a/059600253X) - "Solid, no-nonsense reference to the "alphabet soup" of micro edition programming, covering the CLDC, CDC, KVM and MIDP APIs".
+
+- [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
+
+### Academic Articles
+
 - [A Testing Method for Java ME Software](https://doi.org/10.1109/EmbeddedCom-ScalCom.2009.21) - Reviews various unit testing methods for J2ME and introduces a custom one for NetBeans.
 
 - [Security Evaluation of J2ME CLDC Embedded Java Platform](http://codexx.s3.amazonaws.com/hack-ohm/j2me_cldc_security_evaluation.pdf) - Paper on J2ME security and vulnerability analysis.
@@ -151,13 +157,11 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [Distributed Gaming using J2ME and XML](https://www.cs.sjsu.edu/faculty/pollett/masters/Semesters/Fall03/Rekha/CS297Report.pdf) - Writeup on creating a cross-platform using Oracle XML database, IBM WebSphere VM.
 
-- [J2ME In Nutshell](https://www.oreilly.com/library/view/j2me-in-a/059600253X) - "Solid, no-nonsense reference to the "alphabet soup" of micro edition programming, covering the CLDC, CDC, KVM and MIDP APIs".
 
 - [Developing Jini applications using J2ME technology](https://dl.acm.org/doi/abs/10.5555/507165) - Book on Developing networking applications using Jini and J2ME.
 
 - [J2ME-Based Mobile Virtual Laboratory for Engineering Education](https://www.researchgate.net/profile/Mohammed-Otair/publication/26513175_J2ME-Based_Mobile_Virtual_Laboratory_for_Engineering_Education/links/56e322ec08ae65dd4cbac21b/J2ME-Based-Mobile-Virtual-Laboratory-for-Engineering-Education.pdf) - Paper on development of an Electrical Engineering Virtual Laboratory with J2ME.
 
-- [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
 
 - [Technical Report: Bluetooth integration into CLDC/MIDP.](https://elib.dlr.de/6986/1/BluetoothAndMIDP.pdf) - A technical report detailing the integration of Bluetooth technology within CLDC/MIDP environments.
 
@@ -174,6 +178,4 @@ Any decompiler that works for Java will work for J2ME too.
 - [r/J2MEGaming](https://reddit.com/r/j2megaming) - Reddit community for J2ME, Symbian and related platforms.
 
 - [HackClub Retrospect J2ME](https://retrospect.hackclub.com/j2me) - J2ME development contest by Hackclub.
-s://reddit.com/r/j2megaming) - Reddit community for J2ME, Symbian and related platforms.
 
-- [HackClub Retrospect J2ME](https://retrospect.hackclub.com/j2me) - J2ME development contest by Hackclub.
