@@ -4,7 +4,7 @@
 
 > An awesome list about Java platform Micro edition[(J2ME)](https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition), a Java specification designed for old keypad phones and PDAs. MIDP is used to create Midlets, which have `.jad` or `.jar` extension, and run on platforms like old keypad phones, Symbian and PDAs.
 
-Please give it a star(⭐) to support the development. Read about history of Awesome J2ME and above other reverse engineering projects in  <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">Awesome J2ME article</a>. Also check out [Awesome Symbian](https://github.com/hstsethi/awesome-symbian).
+Please give it a star(⭐) to support the development. Read about history of Awesome J2ME and above other reverse engineering projects in  <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">Awesome J2ME article.</a> 
 
 ---
 
@@ -21,7 +21,6 @@ Please give it a star(⭐) to support the development. Read about history of Awe
     - [Video Games](#video-games)
 - [Related Projects](#related-projects)
 - [Tutorials](#tutorials)
-    - [Academic Articles](#academic-articles)
 - [Communities](#communities)
 
 ---
@@ -313,13 +312,6 @@ Any decompiler that works for Java will work for J2ME too.
 
 ## Tutorials
 
-- [J2ME In Nutshell](https://www.oreilly.com/library/view/j2me-in-a/059600253X) - "Solid, no-nonsense reference to the "alphabet soup" of micro edition programming, covering the CLDC, CDC, KVM and MIDP APIs".
-
-- [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
-
-### Academic Articles 
-
-
 - [A Testing Method for Java ME Software](https://doi.org/10.1109/EmbeddedCom-ScalCom.2009.21) - Reviews various unit testing methods for J2ME and introduces a custom one for NetBeans.
 
 - [Security Evaluation of J2ME CLDC Embedded Java Platform](http://codexx.s3.amazonaws.com/hack-ohm/j2me_cldc_security_evaluation.pdf) - Paper on J2ME security and vulnerability analysis.
@@ -330,15 +322,20 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [Distributed Gaming using J2ME and XML](https://www.cs.sjsu.edu/faculty/pollett/masters/Semesters/Fall03/Rekha/CS297Report.pdf) - Writeup on creating a cross-platform using Oracle XML database, IBM WebSphere VM.
 
+- [J2ME In Nutshell](https://www.oreilly.com/library/view/j2me-in-a/059600253X) - "Solid, no-nonsense reference to the "alphabet soup" of micro edition programming, covering the CLDC, CDC, KVM and MIDP APIs".
+
 - [Developing Jini applications using J2ME technology](https://dl.acm.org/doi/abs/10.5555/507165) - Book on Developing networking applications using Jini and J2ME.
 
 - [J2ME-Based Mobile Virtual Laboratory for Engineering Education](https://www.researchgate.net/profile/Mohammed-Otair/publication/26513175_J2ME-Based_Mobile_Virtual_Laboratory_for_Engineering_Education/links/56e322ec08ae65dd4cbac21b/J2ME-Based-Mobile-Virtual-Laboratory-for-Engineering-Education.pdf) - Paper on development of an Electrical Engineering Virtual Laboratory with J2ME.
+
+- [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
+
+- [Technical Report: Bluetooth integration into CLDC/MIDP.](https://elib.dlr.de/6986/1/BluetoothAndMIDP.pdf) - A technical report detailing the integration of Bluetooth technology within CLDC/MIDP environments.
 
 - [NanoBase: A tiny relation database manager for the JME CLDC/MIDP Platform](https://ojs.unifor.br/tec/article/download/32/4471) - A paper presenting NanoBase, a lightweight relational database manager specifically designed for the JME CLDC/MIDP environment.
 
 - [MIDP based J2ME driver for accessing MySQL from mobile devices](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9c8c7457d965ad30f8785776d86b6f635fe5dde2p) - A paper presenting a MIDP-based J2ME driver that enables mobile devices to access MySQL databases similarly to how JDBC functions.
 
-- [Technical Report: Bluetooth integration into CLDC/MIDP.](https://elib.dlr.de/6986/1/BluetoothAndMIDP.pdf) - A technical report detailing the integration of Bluetooth technology within CLDC/MIDP environments.
 ---
 
 ## Communities
