@@ -22,7 +22,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
     - [Video Games](#video-games)
 - [Related Projects](#related-projects)
 - [Tutorials](#tutorials)
-    - [Academic Articles)(#academic-articles)
+    - [Academic Articles](#academic-articles)
 - [Communities](#communities)
 
 ---
