@@ -139,6 +139,8 @@ Any decompiler that works for Java will work for J2ME too.
 <!--lint disable double-link-->
 - [Awesome Symbian](https://github.com/hstsethi/awesome-symbian) - An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s. It supports J2ME as well.
 
+- [Cell Phone Game Preservation Wiki](https://cellphonegamespreservation.miraheze.org/wiki/Main_Page) - Wiki dedicated towards phone preservation, e.g. emulation and game dumps.
+
 ---
 
 ## Tutorials
