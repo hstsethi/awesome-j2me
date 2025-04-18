@@ -45,6 +45,8 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 
 - [KEmulator nnmod](https://github.com/shinovon/KEmulator) - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
 
+- [SquirrelJME](https://github.com/squirrelljme/squirrelljme/) - Java ME 8 Virtual Machine for embedded and Internet of Things devices. It has the ultimate goal of being 99.9% compatible with the Java ME standard.
+
 ---
 
 ## Development
