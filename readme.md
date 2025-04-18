@@ -45,7 +45,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 
 - [KEmulator nnmod](https://github.com/shinovon/KEmulator) - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
 
-- [SquirrelJME](https://github.com/squirrelljme/squirrelljme/) - Java ME 8 Virtual Machine for embedded and Internet of Things devices. It has the ultimate goal of being 99.9% compatible with the Java ME standard.
+- [SquirrelJME](https://github.com/squirreljme/squirreljme) - Java ME 8 Virtual Machine for embedded and Internet of Things devices. It has the ultimate goal of being 99.9% compatible with the Java ME standard.
 
 ---
 
@@ -184,4 +184,7 @@ Any decompiler that works for Java will work for J2ME too.
 - [r/J2MEGaming](https://reddit.com/r/j2megaming) - Reddit community for J2ME, Symbian and related platforms.
 
 - [HackClub Retrospect J2ME](https://retrospect.hackclub.com/j2me) - J2ME development contest by Hackclub.
+
+- [Ketai Wiki](https://keitaiwiki.com/wiki/KeitaiWiki) -  Wiki dedicated to cataloging games from Japanese Feature Phones (keitai), pre-Android/iPhone mobile devices released in Japan.
+
 
