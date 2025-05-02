@@ -57,6 +57,9 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 
 - [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor specific APIs.
 
+- [Cibyl](https://github.com/SimonKagstrom/cibyl) - Cibyl is an environment to compile and run programs written in C,
+Objective-C, C++ and possibly Fortran on J2ME phones.
+
 ### SDKs
 
 - [Sony Ericsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sony Ericsson devices. Can run Mascot capsule software too.
