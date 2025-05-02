@@ -186,7 +186,7 @@ Any decompiler that works for Java will work for J2ME too.
 
 - [r/J2MEGaming](https://reddit.com/r/j2megaming) - Reddit community for J2ME, Symbian and related platforms.
 
-- [HackClub Retrospect J2ME](https://retrospect.hackclub.com/j2me) - J2ME development contest by Hackclub.
+- [HackClub Retrospect J2ME](https://retrospect.hackclub.com/j2me) - J2ME development contest by Hackclub. Features Awesome J2ME in it's resources section.
 
 - [Ketai Wiki](https://keitaiwiki.com/wiki/KeitaiWiki) -  Wiki dedicated to cataloging games from Japanese Feature Phones (keitai), pre-Android/iPhone mobile devices released in Japan.
 
