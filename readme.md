@@ -7,7 +7,7 @@
 <!--lint disable double-link-->
 Please give it a star(⭐) to support the development. Read about history of Awesome J2ME and reverse engineering projects in <a href="https://hstsethi.vercel.app/posts/programming/awe">this blog post</a>.
 
----
+
 
 ## Contents
 
@@ -26,7 +26,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 - [Tutorials](#tutorials)
     - [Academic Articles](#academic-articles)
 
----
+
 
 ## Communities
 
@@ -35,7 +35,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 - [Ketai Wiki](https://keitaiwiki.com/wiki/KeitaiWiki) - Wiki dedicated to cataloging games from Japanese Feature Phones (keitai), pre-Android/iPhone mobile devices released in Japan.
 - [r/J2MEGaming](https://reddit.com/r/j2megaming) - Reddit community for J2ME, Symbian, and related platforms.
 
----
+
 
 ## Development
 
@@ -61,7 +61,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 - [Sun Java Me SDK](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html) [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - Successor to WTK that integrates CLDC/MIDP development.
 - [Sun WTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) - Official J2ME SDK by Sun.
 
----
+
 
 ## Emulators
 
@@ -74,13 +74,13 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 - [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 - [SquirrelJME](https://github.com/squirreljme/squirreljme) - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
 
----
+
 
 ## Hardware
 
 *This section is currently empty.*
 
----
+
 
 ## Native Software
 
@@ -100,7 +100,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 - [Moby Games](https://www.mobygames.com/platform/j2me) - Database of J2ME games with links to official stores.
 - [The "New" J2ME software archive](https://archive.org/details/96x65pixels_j2me) - 74GB+, sorted collection of J2ME games.
 
----
+
 
 ## Related Projects
 
@@ -109,7 +109,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 - [J2ME Fandom](https://j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
 - [J2ME Preservation](https://github.com/j2me-preservation/j2me-preservation) - Archive of various J2ME software.
 
----
+
 
 ## Reverse Engineering
 
@@ -123,7 +123,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 - [Recaf](https://github.com/Col-E/Recaf) - Bytecode editor that supports multiple decompilers.
 - [Vineflower](https://github.com/vineflower/vineflower) - Fork of Fernflower decompiler with improved output quality.
 
----
+
 
 ## Tutorials
 
