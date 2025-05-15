@@ -24,7 +24,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 - [Reverse Engineering](#reverse-engineering)
    - [Decompilers](#decompilers)
 - [Tutorials](#tutorials)
-    -[Academic Articles](#academic-articles)
+    - [Academic Articles](#academic-articles)
 
 ---
 
