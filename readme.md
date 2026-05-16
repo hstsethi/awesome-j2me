@@ -82,7 +82,6 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 ## Finance
 
 - [Glu Mobile 10-K archive](https://www.sec.gov/edgar/search/#/dateRange=all&category=custom&entityName=0001366246&forms=10-K) - Archive of 10-K of Glu Mobile from it's IPO(2007) till acquisition(2021). Includes revenue breakdown by means of distribution and region, management commentary, portfolio of games etc.
-
 - [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
 
 ## Hardware
@@ -120,7 +119,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Cell Phone Game Preservation Wiki](https://cellphonegamespreservation.miraheze.org/wiki/Main_Page) - Wiki dedicated to phone preservation, including emulation and game dumps.
 - [J2ME Fandom](https://j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
 - [J2ME Preservation](https://github.com/j2me-preservation/j2me-preservation) - Archive of various J2ME software.
-
+- [Legacy Portable Computing Wiki](https://lpcwiki.miraheze.org) - Frequently updated Wiki dedicated to preserving the knowledge and content of outdated mobile devices.
 
 
 ## Reverse Engineering
@@ -149,6 +148,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Basic Java Performance Good Practices](https://web.archive.org/web/19970607121931/http://www.javaworld.com/javaworld/jw-04-1997/jw-04-optimize.html) - Early reference guide for Java performance best practices.
 - [The JavaTM Virtual Machine Specification Second Edition](https://web.archive.org/web/19990508124421/http://java.sun.com/docs/books/vmspec/2nd-edition/html/VMSpecTOC.doc.html) - Official JVM specification documentation covering virtual machine internals.
 - [Sony Ericsson Development Tips and Tricks](https://web.archive.org/web/20061006072043/http://developer.sonyericsson.com/site/global/techsupport/tipstrickscode/java/p_java.jsp) - Device-specific development guidelines and optimization techniques from Sony Ericsson.
+- [Nokia/Microsoft Mobile Developer Slideshare](https://www.slideshare.net/nokia-developer) - Presentations about developing apps for Nokia platforms, including Asha and Series 40 platforms.
 
 ### Academic Articles
 
@@ -158,3 +158,4 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Distributed Gaming using J2ME and XML](https://www.cs.sjsu.edu/faculty/pollett/masters/Semesters/Fall03/Rekha/CS297Report.pdf) - Writeup on creating a cross-platform using Oracle XML database for gaming.
 - [Experiences of Implementing BitTorrent on Java ME Platform](https://ieeexplore.ieee.org/abstract/document/4446557) - Detailed writeup on implementing BitTorrent client on Nokia S40. Includes methodology and results.
 - [Networked J2ME Applications](https://www.mooreds.com/midp/midp.htm) - Paper exploring various facets of building networked MIDP 1.0 applications.
+- [JSR 184: M3G Specification](https://jcp.org/en/jsr/detail?id=184) - Specification for Mobile Graphics 3D Graphics API(M3G), which is a file format and API for 3D graphics capabilities to J2ME devices. It has two mode: immediate and retained. The former is compatible with OpenGL ES.
