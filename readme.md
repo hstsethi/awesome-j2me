@@ -143,7 +143,12 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
 - [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor-specific APIs.
 - [Java ME 3.4 Developer's Guide for NetBeans on Windows](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/html/toc.htm) - Official tutorial on SDK 3.4, NetBeans on Windows variant.
-
+- [J2ME Performance Tips](https://web.archive.org/web/20050223040231/https://www.javaperformancetuning.com/tips/j2me.shtml#REF25) - Performance optimization tips specific to J2ME development.
+- [Basic Java Examples](https://web.archive.org/web/20121102161050/http://www.java-tips.org/java-me-tips/midp/page3.html) - Basic examples for Java ME and MIDP development.
+- [General Java Optimization Tips](https://web.archive.org/web/20050215222448/http://www-2.cs.cmu.edu/~jch/java/) - Foundational Java performance optimization techniques.
+- [Basic Java Performance Good Practices](https://web.archive.org/web/19970607121931/http://www.javaworld.com/javaworld/jw-04-1997/jw-04-optimize.html) - Early reference guide for Java performance best practices.
+- [The JavaTM Virtual Machine Specification Second Edition](https://web.archive.org/web/19990508124421/http://java.sun.com/docs/books/vmspec/2nd-edition/html/VMSpecTOC.doc.html) - Official JVM specification documentation covering virtual machine internals.
+- [Sony Ericsson Development Tips and Tricks](https://web.archive.org/web/20061006072043/http://developer.sonyericsson.com/site/global/techsupport/tipstrickscode/java/p_java.jsp) - Device-specific development guidelines and optimization techniques from Sony Ericsson.
 
 ### Academic Articles
 
