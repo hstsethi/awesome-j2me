@@ -110,6 +110,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Kahvibreak](https://bluemaxima.org/kahvibreak) - Collection of J2ME games.
 - [Moby Games](https://www.mobygames.com/platform/j2me) - Database of J2ME games with links to official stores.
 - [The "New" J2ME software archive](https://archive.org/details/96x65pixels_j2me) - 74GB+, sorted collection of J2ME games.
+- [New J2ME Software Archive Search](https://toca-1.github.io/new-j2me-software-archive-search/) - Search interface for the "New" J2ME software archive, with filename and MIDlet metadata searches as well as exact CRC32/SHA-1/SHA-256 lookups. Most importantly, it provides links to individual file downloads from the Internet Archive.
 - [Nowhere Dialogues](https://gist.github.com/hstsethi/d4ef0c9f0710e5b713d1beb2ff93a1ce) - Dialogues from a Nowhere, a 2007 J2ME game, with character names reverse engineered.
 - [J2ME Games at MyAbandonware](https://www.myabandonware.com/browse/platform/j2me) - Curated catalog of abandoned J2ME games with direct downloads.
 - [J2ME Games Speedruns](https://www.speedrun.com/games?platform=nzel5r6q) - List of all speedruns related to J2ME games along with guides, discussions and screen recordings.
