@@ -20,4 +20,4 @@ jobs:
       - name: Lychee Broken Link Checker
         uses: lycheeverse/lychee-action@v2.9.0
         with:
-            args: --suggest --accept 403 './**/*.md' 
+            args: --accept '100..=103,200..=299,403' './**/*.md' 
