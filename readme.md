@@ -93,7 +93,8 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 
 ### Apps
 
-- [Discord J2ME](https://github.com/gtrxAC/discord-j2me) - Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
+- [Discofi](https://github.com/gtrxAC/Discofi) - Unofficial Discord client for J2ME, designed to connect directly to Discord without a proxy. Supports select devices (Nokia and Sony Ericsson).
+- [Discord J2ME](https://github.com/gtrxAC/discord-j2me) - (Discontinued) Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
 - [Hotpants](https://github.com/baumschubser/hotpants/) - HOTP/TOTP client.
 - [J2ME Emu Software](https://archive.org/details/j2me-emuSoftware) - Executables, source code of various emulators that run on J2ME.
 - [Jtube](https://github.com/shinovon/JTube) - YouTube client based on Invidious API.
