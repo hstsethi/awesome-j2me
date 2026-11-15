@@ -18,3 +18,5 @@ jobs:
         run: npx awesome-lint readme.md
       - name: Lychee Broken Link Checker
         uses: lycheeverse/lychee-action@v2.9.0
+        with:
+            args: --suggest --accept 403
