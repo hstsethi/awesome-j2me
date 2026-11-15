@@ -64,7 +64,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Sony Ericsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sony Ericsson devices. Can run Mascot capsule software too.
 - [Soap ME](https://dl.acm.org/doi/abs/10.1145/1462802.1462805) - SOAP-compliant Web service container that supports dynamic development.
 - [Sun Java Me SDK](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html) [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - Successor to WTK that integrates CLDC/MIDP development.
-- [Sun WTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) - Official J2ME SDK by Sun.
+- [Sun WTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) - Official J2ME SDK by Sun version 2.5.2.
 
 
 
