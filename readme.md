@@ -51,7 +51,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 
 ### IDEs
 
-- [Eclipse](https://archive.eclipse.org/eclipse/downloads) - Archive of all versions of Eclipse IDE.
+- [Eclipse](https://archive.eclipse.org/eclipse/downloads) - Archive of all versions of the Eclipse IDE.
 - [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) - Mobility-pack, normal NetBeans and Java-ME SDK, all of them are required to set up MIDP development environment.
 
 ### SDKs
